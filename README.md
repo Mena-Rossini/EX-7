@@ -21,8 +21,7 @@ print(result,unans)
 ```
 ## OUTPUT:
 
-![Uploading 241380866-8d3fcaf3-f270-4a86-bf6f-38905453fa6f.png…]()
-
+![241380866-8d3fcaf3-f270-4a86-bf6f-38905453fa6f](https://github.com/Mena-Rossini/EX-7/assets/102855266/c75252d5-ba3e-47e0-acde-c068e8fa4c39)
 
 ## RESULT:
 Thus, the python program for simulating Traceroute command was successfully executed.
